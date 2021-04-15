@@ -1,0 +1,24 @@
+{
+  "name": "nodefileupload",
+  "version": "1.0.0",
+  "description": "nodejs file upload without 3rd party modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobialagbe/NodeJS-File-Upload.git"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "fileupload"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobialagbe/NodeJS-File-Upload/issues"
+  },
+  "homepage": "https://github.com/tobialagbe/NodeJS-File-Upload#readme"
+}
